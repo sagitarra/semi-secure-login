@@ -1,2 +1,2 @@
 # semi-secure-login
-a lightweight login found on devshed with some tips to get it working on godaddy
+ It is heavily (and most helpfully) commented at http://forums.devshed.com/php-faqs-stickies-167/program-basic-secure-login-system-using-php-mysql-891201.html I have included it here to point out a few places where a break can be used to troubleshoot the code. That is a misnomer because the code works fine. I used die and echo requests to find the point where the code failed to work properly so I could be assured in blaming godaddy for their bad php configuration. 
