@@ -8,7 +8,7 @@
 
 
 
-
+![alt tag](https://github.com/sagitarra/semi-secure-login/blob/master/sessionsavepath.jpg)
 
 
 The paths are the same on the left side because I included a  .user.ini file in the root directory on my server which includes this line: session.save_path = D:/Temp/php   Otherwise, the left “local” side would display D:\Temp\php\session\ ; e.g., if I removed the .user.ini file from my server.
