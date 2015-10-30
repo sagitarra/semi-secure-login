@@ -3,7 +3,7 @@
  
  For a php session to exist on the next page during a redirect, upload_tmp_dir and session.save_path have to have the same path as displayed below. If they are not the same, the session won’t stay logged in because your program will be looking in the wrong directory and then quickly give up; indicate an empty session and redirect to your login.
 
-
+![alt tag](https://github.com/sagitarra/semi-secure-login/blob/master/uploadtemp.jpg)
 
 
 
